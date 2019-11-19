@@ -15,7 +15,7 @@ categories = [
 ]
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
-feature_image = "/images/claudio-schwarz-purzlbaum-tRDWFrkRMyU-unsplash.jpg"
+feature_image = "/images/francesco-ungaro-GX81x7KTfIw-unsplash.jpg"
 +++
 
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
