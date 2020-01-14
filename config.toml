@@ -15,6 +15,7 @@ theme = "casper3"
   twitter = "https://twitter.com"
   github = "https://github.com/jonathanjanssens"
   description = "Just a demo site for the Casper3 theme ported to Hugo"
+  mainSections = ["post"]
 
 [menu]
   [[menu.main]]
