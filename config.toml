@@ -33,6 +33,11 @@ theme = "casper3"
     name = "Get Theme on Github"
     url = "https://github.com/jonathanjanssens/hugo-casper3"
     weight = 30
+  [[menu.main]]
+    identifier = "author"
+    name = "Author Homepage"
+    url = "https://jonathanjanssens.com"
+    weight = 40
 
 [taxonomies]
 category = "categories"
