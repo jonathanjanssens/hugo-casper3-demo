@@ -8,7 +8,7 @@ DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 
-theme = "casper3"
+theme = "hugo-casper3"
 
 [params]
   facebook = "https://facebook.com"
