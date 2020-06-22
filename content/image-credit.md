@@ -6,7 +6,10 @@ date = "2019-11-03"
 author = "Jonathan Janssens"
 +++
 
-All images are from [Unsplash](https://unsplash.com).
+![Topography pattern](/images/topography.svg)
+Topography pattern from [Hero Patterns](http://www.heropatterns.com/)
+
+All photos are from [Unsplash](https://unsplash.com).
 
 ![Fight for freedom stand with Hong Kong sticker](/images/claudio-schwarz-purzlbaum-tRDWFrkRMyU-unsplash.jpg)
 Photo by 🇨🇭 Claudio Schwarz | [@purzlbaum on Unsplash](https://unsplash.com/photos/tRDWFrkRMyU)
