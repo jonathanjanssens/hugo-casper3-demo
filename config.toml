@@ -41,6 +41,11 @@ theme = "casper3"
     name = "Author Homepage"
     url = "https://jonathanjanssens.com"
     weight = 40
+  [[menu.main]]
+    identifier = "authors"
+    name = "Authors"
+    url = "/authors"
+    weight = 25
 
 [taxonomies]
 category = "categories"
