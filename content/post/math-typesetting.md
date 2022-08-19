@@ -1,5 +1,9 @@
 ---
 author: Hugo Authors
+authors: [
+ "Hugo Authors",
+ "Terry Pratchett"
+]
 title: Math Typesetting
 date: 2019-03-08
 description: A brief guide to setup KaTeX
