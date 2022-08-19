@@ -43,6 +43,7 @@ theme = "casper3"
 category = "categories"
 tag = "tags"
 series = "series"
+author = "authors"
 
 [privacy]
 
